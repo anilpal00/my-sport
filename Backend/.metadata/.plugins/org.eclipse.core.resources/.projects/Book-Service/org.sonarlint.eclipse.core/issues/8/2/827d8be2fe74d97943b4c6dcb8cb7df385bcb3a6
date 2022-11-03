@@ -1,0 +1,52 @@
+
+Ž
+java:S1192i"ZDefine a constant instead of duplicating this literal "Error: Role is not found." 4 times.(ÉÿÊ–ùÿÿÿÿHÌRCRITICALZ
+CODE_SMELL
+V
+java:S5411S"*Use the primitive boolean expression here.(‡Ö…²HÑRMINORZ
+CODE_SMELL
+V
+java:S5411Y"*Use the primitive boolean expression here.(Œ‰ÓŒHÒRMINORZ
+CODE_SMELL
+‚
+java:S1128"QRemove this unused import 'org.springframework.web.bind.annotation.PathVariable'.(¹ûñÅþÿÿÿÿHÓRMINORZ
+CODE_SMELL
+n
+java:S1128&"BRemove this unused import 'com.digitalbooks.services.BookService'.(‚¯ãáHÔRMINORZ
+CODE_SMELL
+l
+java:S1128";Remove this unused import 'com.digitalbooks.entities.Book'.(°·›ÖýÿÿÿÿHÕRMINORZ
+CODE_SMELL
+{
+java:S1128"ORemove this unused import 'org.springframework.web.bind.annotation.GetMapping'.(‡¡‰ØHÖRMINORZ
+CODE_SMELL
+q
+java:S1128"@Remove this unused import 'org.springframework.http.HttpStatus'.(íŸ¤ŠúÿÿÿÿH×RMINORZ
+CODE_SMELL
+U
+java:S1452="&Remove usage of generic wildcard type.(—­è€HØRCRITICALZ
+CODE_SMELL
+Z
+java:S6212?"/Declare this local variable with "var" instead.(»ãÿ»HÙRINFOZ
+CODE_SMELL
+X
+java:S1612G",Replace this lambda with a method reference.(¡©é½HÚRMINORZ
+CODE_SMELL
+Z
+java:S1452R"&Remove usage of generic wildcard type.(éã°éúÿÿÿÿHÛRCRITICALZ
+CODE_SMELL
+_
+java:S6212`"/Declare this local variable with "var" instead.(…ß‹­øÿÿÿÿHÜRINFOZ
+CODE_SMELL
+Z
+java:S6212h"/Declare this local variable with "var" instead.(š»ÆšHÝRINFOZ
+CODE_SMELL
+_
+java:S6212o"/Declare this local variable with "var" instead.(¢•éúûÿÿÿÿHÞRINFOZ
+CODE_SMELL
+Z
+java:S6212u"/Declare this local variable with "var" instead.(ˆÙ¼ÂHßRINFOZ
+CODE_SMELL
+Z
+java:S6212{"/Declare this local variable with "var" instead.(š»ÆšHàRINFOZ
+CODE_SMELL

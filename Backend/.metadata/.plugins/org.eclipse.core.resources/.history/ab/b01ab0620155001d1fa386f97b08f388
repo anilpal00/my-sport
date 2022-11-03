@@ -1,0 +1,5 @@
+package com.mysport.entities;
+
+public class Country {
+
+}

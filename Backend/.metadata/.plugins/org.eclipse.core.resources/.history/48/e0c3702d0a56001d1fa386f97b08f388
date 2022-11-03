@@ -1,0 +1,5 @@
+package com.mysport.repository;
+
+public interface SportRepository {
+
+}

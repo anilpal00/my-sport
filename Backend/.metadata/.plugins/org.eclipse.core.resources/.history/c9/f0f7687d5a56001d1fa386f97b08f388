@@ -1,0 +1,5 @@
+package com.mysport.controllers;
+
+public class AuthControllerTest {
+
+}

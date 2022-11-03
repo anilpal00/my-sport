@@ -1,0 +1,12 @@
+
+P
+java:S2386!"Make this member "protected".(¶ò¿Ã8€ƒÎç¿0H“=RMINORZ
+CODE_SMELL
+n
+java:S1128"6Remove this unused import 'lombok.AllArgsConstructor'.(´œ¾öùÿÿÿÿ8ž‡“íÀ0H—=RMINORZ
+CODE_SMELL
+|
+java:S1874"DRemove this use of "WebSecurityConfigurerAdapter"; it is deprecated.(Ã÷ ´ýÿÿÿÿ8€ƒÎç¿0H’=RMINORZ
+CODE_SMELL
+s	java:S1255"<This block of commented-out lines of code should be removed.(ý£ËÚùÿÿÿÿ8€ƒÎç¿0H”=RMAJORZ
+CODE_SMELL

@@ -1,0 +1,31 @@
+package com.mysport.service.impl;
+
+import java.awt.print.Book;
+import java.util.List;
+
+import org.springframework.beans.factory.annotation.Autowired;
+
+import com.mysport.entities.State;
+import com.mysport.repository.StateRepository;
+import com.mysport.service.StateService;
+
+public class StateServiceImpl implements StateService {
+
+	@Autowired
+	private StateRepository stateRepository;
+	
+	@Override
+	public List<State> findByCountryCode(Integer code) {
+		
+		List<State> state = this.stateRepository.findById(code).get();
+		return state;
+	}
+	
+	@Override
+	public Book getBookById(Integer bookId) {
+		Book book = this.bookRepository.findById(bookId).get();
+		book.setUser(book.getUser());
+		return book;
+	}
+
+}

@@ -1,0 +1,5 @@
+package com.mysport.service;
+
+public class SportBookingService {
+
+}

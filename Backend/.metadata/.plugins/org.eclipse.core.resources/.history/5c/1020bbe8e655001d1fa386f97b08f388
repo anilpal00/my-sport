@@ -1,0 +1,5 @@
+package com.mysport.exceptions;
+
+public enum ErrorCode {
+
+}

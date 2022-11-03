@@ -1,0 +1,8 @@
+package com.mysport.service;
+
+import com.mysport.entities.State;
+
+public interface StateService {
+
+	State getStateAccordingToCountry();
+}

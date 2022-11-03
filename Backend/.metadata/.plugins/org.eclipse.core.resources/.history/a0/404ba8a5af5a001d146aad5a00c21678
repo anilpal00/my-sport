@@ -1,0 +1,9 @@
+package com.mysport.service;
+
+import com.mysport.entities.SportBooking;
+
+public interface SportBookingService {
+
+	SportBooking bookSportGround(SportBooking sportBooking, Integer uid);
+	SportBooking getBookingData(Long userId);
+}

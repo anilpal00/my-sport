@@ -1,0 +1,11 @@
+package com.mysport.service;
+
+import java.time.LocalDateTime;
+
+import com.mysport.entities.SportBooking;
+import com.mysport.entities.User;
+
+public interface SportBookingService {
+
+	SportBooking bookSportGround(SportBooking sportBooking, Integer uid, LocalDateTime start);
+}

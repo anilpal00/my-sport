@@ -1,0 +1,9 @@
+package com.mysport.entities;
+
+import javax.persistence.Entity;
+
+@Entity
+public enum SportBookingStatus {
+    SCHEDULED,
+    CANCELED
+}

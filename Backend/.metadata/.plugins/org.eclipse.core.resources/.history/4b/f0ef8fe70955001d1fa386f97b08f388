@@ -1,0 +1,14 @@
+package com.mysport.service.impl;
+
+import com.mysport.entities.State;
+import com.mysport.service.StateService;
+
+public class StateServiceImpl implements StateService {
+
+	@Override
+	public State getStateAccordingToCountry() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

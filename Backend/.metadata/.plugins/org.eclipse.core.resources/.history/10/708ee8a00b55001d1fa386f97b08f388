@@ -1,0 +1,12 @@
+package com.mysport.service;
+
+import java.util.List;
+
+import org.springframework.data.repository.query.Param;
+
+import com.mysport.entities.State;
+
+public interface StateService {
+
+	 List<State> findByCountryCode(Integer code);
+}

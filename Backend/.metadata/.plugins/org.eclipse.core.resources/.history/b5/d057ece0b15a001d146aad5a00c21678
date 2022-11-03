@@ -1,0 +1,15 @@
+package com.mysport.repository;
+
+import java.util.List;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+import org.springframework.data.jpa.repository.Query;
+import org.springframework.data.repository.query.Param;
+
+import com.mysport.entities.SportBooking;
+
+public interface SportRepository extends JpaRepository<SportBooking, Long> {
+
+	@Query(value = "SELECT distinct(b.book_id)as id, b.book_name FROM book b inner join userpurchased u on u.book_id = b.book_id where b.user_id=:userId", nativeQuery = true)	
+	List<SportBooking> findBookingData(@Param("userId") Long userId);
+}

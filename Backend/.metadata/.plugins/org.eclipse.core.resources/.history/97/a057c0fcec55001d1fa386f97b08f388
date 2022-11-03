@@ -1,0 +1,5 @@
+package com.mysport.service;
+
+public interface AppointmentService {
+	void createNewAppointment(int workId, int providerId, int customerId, LocalDateTime start);
+}
