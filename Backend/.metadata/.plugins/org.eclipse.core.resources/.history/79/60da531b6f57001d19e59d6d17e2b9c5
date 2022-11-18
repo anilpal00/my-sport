@@ -1,6 +1,0 @@
-package com.mysport.entities;
-
-public class SportBookingStatus {
-//    SCHEDULED,
-//    CANCELED
-}

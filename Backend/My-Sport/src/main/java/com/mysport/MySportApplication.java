@@ -11,16 +11,4 @@ public class MySportApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(MySportApplication.class, args);
 	}
-
-//	public WebMvcConfigurer corsConfigurer() {
-//		return new WebMvcConfigurer() {
-//			@Override
-//			public void addCorsMappings(CorsRegistry registry) {
-//				registry.addMapping("/*").allowedOrigins("*").allowedMethods("*").allowedHeaders("*")
-//						.allowCredentials(true);
-//				;
-//			}
-//		};
-//	}
-
 }

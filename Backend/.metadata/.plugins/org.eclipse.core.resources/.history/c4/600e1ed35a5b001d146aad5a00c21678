@@ -1,0 +1,5 @@
+package com.dailyinsuranceportal.security.jwt;
+
+public class AuthEntryPointJwt {
+
+}

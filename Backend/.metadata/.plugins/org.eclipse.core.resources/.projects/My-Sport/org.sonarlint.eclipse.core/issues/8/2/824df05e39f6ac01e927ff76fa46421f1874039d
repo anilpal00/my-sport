@@ -1,7 +1,9 @@
 
-…	java:S1167"SRename this field "id_sport" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ñ¯¯8Ï±¤Â0Hú=RMINORZ
+‰	java:S116"RRename this field "user_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â†âèùÿÿÿÿ8®ûöÂ0H›>RMINORZ
 CODE_SMELL
-‰	java:S116"RRename this field "user_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â†âèùÿÿÿÿ8®ûöÂ0H±=RMINORZ
+ƒ	java:S117<"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õµîŸ8¢¬ÿÂ0H™>RMINORZ
 CODE_SMELL
-ƒ	java:S117>"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õµîŸ8¢¬ÿÂ0HÆ=RMINORZ
+s	java:S125*"<This block of commented-out lines of code should be removed.(ö–·Ìÿÿÿÿÿ8ÑÇÂÃ0HÀ>RMAJORZ
+CODE_SMELL
+m	java:S125."<This block of commented-out lines of code should be removed.(¿³¤=8ÑÇÂÃ0HÁ>RMAJORZ
 CODE_SMELL

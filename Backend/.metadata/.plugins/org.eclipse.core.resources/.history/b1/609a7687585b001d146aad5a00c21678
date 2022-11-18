@@ -1,0 +1,5 @@
+package com.dailyinsuranceportal.payload.request;
+
+public class SignupRequest {
+
+}

@@ -1,0 +1,12 @@
+package com.dailyinsuranceportal.repository;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+
+import com.dailyinsuranceportal.entities.UserPolicyClaim;
+
+public interface UserPolicyClaimRepository extends JpaRepository<UserPolicyClaim, Long> {
+
+	UserPolicyClaimRepository findAllById(Long userId);
+
+
+}

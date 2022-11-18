@@ -9,6 +9,8 @@
 		<item key="isRegEx" value="false"/>
 		<list key="findhistory">
 			<item value="bookSportGround"/>
+			<item value="getUserBook"/>
+			<item value="findUserBook"/>
 			<item value="findAll"/>
 			<item value="getBindingResult"/>
 			<item value="List of constraint violations:["/>

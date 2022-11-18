@@ -79,3 +79,5 @@ j
 :src/test/java/com/mysport/services/CountryServiceTest.java,0\2\02bcf14b9bafb8b516b1f8802baf36dc1eba6ed0
 k
 ;src/main/java/com/mysport/payload/response/JwtResponse.java,d\d\dda560943bab7b9d27feb65d9059c92a14505deb
+^
+.src/main/resources/application-prod.properties,7\4\743ae0da3644f9e4fd27196da617deafee63f397

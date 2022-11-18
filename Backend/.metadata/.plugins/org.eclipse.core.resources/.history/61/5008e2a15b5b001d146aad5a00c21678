@@ -1,0 +1,4 @@
+
+# App Properties
+bezkoder.app.jwtSecret= bezKoderSecretKey
+bezkoder.app.jwtExpirationMs= 86400000

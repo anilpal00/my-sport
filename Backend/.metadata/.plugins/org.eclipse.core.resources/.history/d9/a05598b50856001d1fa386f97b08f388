@@ -1,8 +1,0 @@
-//package com.mysport.service;
-//
-//import java.time.LocalDateTime;
-//
-//public interface SportBookingService {
-//
-//	void bookSportGround(int workId, Long userId, LocalDateTime start);
-//}

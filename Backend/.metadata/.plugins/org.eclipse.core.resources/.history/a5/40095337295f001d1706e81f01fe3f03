@@ -1,0 +1,5 @@
+package com.mysport.configuration;
+
+public class SwaggerConfig {
+
+}

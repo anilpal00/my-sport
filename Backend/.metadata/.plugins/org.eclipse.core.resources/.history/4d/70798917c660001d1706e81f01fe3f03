@@ -1,0 +1,5 @@
+package com.dailyinsuranceportal.exceptions;
+
+public class ResourceNotFoundException {
+
+}

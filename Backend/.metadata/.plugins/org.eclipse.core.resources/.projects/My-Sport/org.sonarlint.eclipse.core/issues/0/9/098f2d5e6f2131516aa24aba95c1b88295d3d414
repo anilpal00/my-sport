@@ -1,18 +1,18 @@
 
-c
-java:S3655&"7Call "Optional#isPresent()" before accessing the value.(ÄÎôÁ8–×³öÁ0Hà9RMAJORZBUG
-a
-java:S6212 "/Declare this local variable with "var" instead.(—±¶á8ìÈîÎ¿0H©3RINFOZ
-CODE_SMELL
 
-java:S1488&"\Immediately return this expression instead of assigning it to the temporary variable "user".(ÄÎôÁ8©àûúÁ0Hç9RMINORZ
+java:S1488&"\Immediately return this expression instead of assigning it to the temporary variable "user".(ÄÎôÁ8©àûúÁ0HÑ@RMINORZ
+CODE_SMELL
+a
+java:S6212&"/Declare this local variable with "var" instead.(ÄÎôÁ8–×³öÁ0HÎ@RINFOZ
+CODE_SMELL
+c
+java:S3655&"7Call "Optional#isPresent()" before accessing the value.(ÄÎôÁ8–×³öÁ0HĞ@RMAJORZBUG
+a
+java:S6212 "/Declare this local variable with "var" instead.(—±¶á8ìÈîÎ¿0HÏ@RINFOZ
 CODE_SMELL
 f
-java:S6212"/Declare this local variable with "var" instead.(ú¹—ïøÿÿÿÿ8Ë¤Î¿0Hª3RINFOZ
+java:S6212"/Declare this local variable with "var" instead.(ú¹—ïøÿÿÿÿ8Ë¤Î¿0HÍ@RINFOZ
 CODE_SMELL
 –
-java:S1488 "cImmediately return this expression instead of assigning it to the temporary variable "updatedUser".(—±¶á8ìÈîÎ¿0H¨3RMINORZ
-CODE_SMELL
-a
-java:S6212&"/Declare this local variable with "var" instead.(ÄÎôÁ8–×³öÁ0Há9RINFOZ
+java:S1488 "cImmediately return this expression instead of assigning it to the temporary variable "updatedUser".(—±¶á8ìÈîÎ¿0HÒ@RMINORZ
 CODE_SMELL

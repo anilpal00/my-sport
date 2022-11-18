@@ -1,0 +1,5 @@
+package com.dailyinsuranceportal.dto;
+
+public class UserPolicyClaimDto {
+
+}

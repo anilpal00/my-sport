@@ -1,9 +1,0 @@
-package com.mysport.service;
-
-import com.mysport.entities.Country;
-
-public interface CountryService {
-	
-	Country getCountryAll();
-
-}

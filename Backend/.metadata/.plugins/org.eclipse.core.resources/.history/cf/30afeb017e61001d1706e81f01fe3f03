@@ -1,0 +1,12 @@
+package com.dailyinsuranceportal.repository;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+
+import com.dailyinsuranceportal.entities.Wallet;
+
+public interface WalletRepository extends JpaRepository<Wallet, Long> {
+
+	@Query(value = "" , nativeQuery = true)
+	Wallet findUserExist(String walletMode, Long userId);
+
+}

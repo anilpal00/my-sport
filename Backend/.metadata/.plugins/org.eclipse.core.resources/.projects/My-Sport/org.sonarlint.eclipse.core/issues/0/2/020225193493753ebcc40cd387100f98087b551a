@@ -1,11 +1,11 @@
 
-a
-java:S6212"/Declare this local variable with "var" instead.(š©­¸8¢¡È¤Â0Hˆ>RINFOZ
-CODE_SMELL
-s	java:S125"<This block of commented-out lines of code should be removed.(ÁÏƒÙÿÿÿÿÿ8„´¯šÂ0Hø<RMAJORZ
+s	java:S125"<This block of commented-out lines of code should be removed.(ÁÏƒÙÿÿÿÿÿ8„´¯šÂ0H£JRMAJORZ
 CODE_SMELL
 y
-java:S4684"@Replace this persistent entity with a simple POJO or DTO object.(÷ããÈ8ÍÉÎ™Â0Hê<RCRITICALZVULNERABILITY
+java:S4684"@Replace this persistent entity with a simple POJO or DTO object.(÷ããÈ8ÍÉÎ™Â0H¦JRCRITICALZVULNERABILITY
+a
+java:S6212"/Declare this local variable with "var" instead.(š©­¸8¢¡È¤Â0H¥JRINFOZ
+CODE_SMELL
 ‘
-java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ò ¬Ýÿÿÿÿÿ8ê½ö™Â0Hô<RMINORZ
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ò ¬Ýÿÿÿÿÿ8ê½ö™Â0H¤JRMINORZ
 CODE_SMELL

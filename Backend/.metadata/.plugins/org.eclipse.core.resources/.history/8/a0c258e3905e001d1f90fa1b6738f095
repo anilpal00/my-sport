@@ -1,0 +1,16 @@
+server.port=8084
+spring.datasource.url= jdbc:mysql://database-1.c4afx6zfgcpn.us-west-2.rds.amazonaws.com:3306/mysport
+spring.datasource.username= admin
+spring.datasource.password= mmyaa070221
+
+spring.jpa.properties.hibernate.dialect= org.hibernate.dialect.MySQL5InnoDBDialect
+spring.jpa.hibernate.ddl-auto= create
+
+
+spring.jpa.show-sql=true
+spring.jpa.properties.hibernate.validator.apply_to_ddl=false
+
+# App Properties
+mysport.app.jwtSecret= mySportSecretKey
+mysport.app.jwtExpirationMs= 50000
+

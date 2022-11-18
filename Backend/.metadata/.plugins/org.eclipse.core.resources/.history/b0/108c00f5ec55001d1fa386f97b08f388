@@ -1,5 +1,0 @@
-package com.mysport.service;
-
-public interface AppointmentService {
-
-}

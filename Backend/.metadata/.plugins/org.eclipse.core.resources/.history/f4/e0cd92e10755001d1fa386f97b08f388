@@ -1,7 +1,0 @@
-package com.mysport.service.impl;
-
-import com.mysport.service.StateService;
-
-public class StateServiceImpl implements StateService {
-
-}

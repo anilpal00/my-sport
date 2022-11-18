@@ -1,7 +1,0 @@
-package com.mysport.entities;
-
-public enum AppointmentStatus {
-
-    SCHEDULED,
-    CANCELED
-}
