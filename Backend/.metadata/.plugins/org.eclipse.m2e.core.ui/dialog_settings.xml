@@ -6,6 +6,7 @@
 	</section>
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="D:\Daily-Insurance-Portal\Backend"/>
 			<item value="C:\Users\cogjava3156\Downloads\angular-11-spring-boot-jwt-authentication-master\spring-boot-server"/>
 			<item value="D:\AppointmentScheduler-develop"/>
 			<item value="D:\H&amp;T-Traning\eureka-service"/>

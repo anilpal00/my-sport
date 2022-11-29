@@ -1,0 +1,7 @@
+
+s	java:S125;"<This block of commented-out lines of code should be removed.(¾Ãûÿÿÿÿ8ãÖ‘ÙÅ0HÇORMAJORZ
+CODE_SMELL
+‚	java:S116$"RRename this field "user_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÒÖ¡úÿÿÿÿHMRMINORZ
+CODE_SMELL
+„	java:S116("TRename this field "policy_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—â§¦ıÿÿÿÿH‚MRMINORZ
+CODE_SMELL

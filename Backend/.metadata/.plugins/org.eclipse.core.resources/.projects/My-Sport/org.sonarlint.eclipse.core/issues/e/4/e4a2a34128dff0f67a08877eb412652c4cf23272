@@ -1,49 +1,49 @@
 
-U
-java:S1452>"&Remove usage of generic wildcard type.(—­è€H–JRCRITICALZ
-CODE_SMELL
 a
-java:S6212@"/Declare this local variable with "var" instead.(»ãÿ»8¹™Œ¿0HJRINFOZ
-CODE_SMELL
-_
-java:S1612H",Replace this lambda with a method reference.(¡©é½8¹™Œ¿0H”JRMINORZ
+java:S6212@"/Declare this local variable with "var" instead.(»ãÿ»8¹™Œ¿0H÷JRINFOZ
 CODE_SMELL
 f
-java:S6212w"/Declare this local variable with "var" instead.(ÇĞù–úÿÿÿÿ8ĞíŒ¿0H“JRINFOZ
+java:S6212q"/Declare this local variable with "var" instead.(¢•éúûÿÿÿÿ8ĞíŒ¿0HüJRINFOZ
 CODE_SMELL
-t	java:S125„"<This block of commented-out lines of code should be removed.(ÇáÔüÿÿÿÿ8¡åÀóÁ0H˜JRMAJORZ
-CODE_SMELL
-
-java:S4684ˆ"@Replace this persistent entity with a simple POJO or DTO object.(©äÅÿÿÿÿÿ8à›·ûÀ0HšJRCRITICALZVULNERABILITY
-}
-java:S1301o"KReplace this "switch" statement by "if" statements to increase readability.(¶„æ8®ÿ÷¿0HJRMINORZ
-CODE_SMELL
-o	java:S125‹"<This block of commented-out lines of code should be removed.(†¤¼ì8Ÿ¿ïªÀ0H™JRMAJORZ
+f
+java:S6212b"/Declare this local variable with "var" instead.(…ß‹­øÿÿÿÿ8ĞíŒ¿0HîJRINFOZ
 CODE_SMELL
 Z
-java:S1452S"&Remove usage of generic wildcard type.(éã°éúÿÿÿÿH‘JRCRITICALZ
+java:S1452S"&Remove usage of generic wildcard type.(éã°éúÿÿÿÿHöJRCRITICALZ
 CODE_SMELL
 f
-java:S6212q"/Declare this local variable with "var" instead.(¢•éúûÿÿÿÿ8ĞíŒ¿0H•JRINFOZ
+java:S6212w"/Declare this local variable with "var" instead.(ÇĞù–úÿÿÿÿ8ĞíŒ¿0HïJRINFOZ
 CODE_SMELL
-
-java:S1192k"ZDefine a constant instead of duplicating this literal "Error: Role is not found." 3 times.(ÉÿÊ–ùÿÿÿÿH›JRCRITICALZ
-CODE_SMELL
-f
-java:S6212j"/Declare this local variable with "var" instead.(ÇĞù–úÿÿÿÿ8“àú¿0HŸJRINFOZ
-CODE_SMELL
-\
-java:S2140")Use "java.util.Random.nextInt()" instead.(è³Ò¸8Ìı…óÁ0H—JRMINORZ
+]
+java:S5411U"*Use the primitive boolean expression here.(‡Ö…²8¹™Œ¿0HôJRMINORZ
 CODE_SMELL
 g
-java:S6212‰"/Declare this local variable with "var" instead.(êˆíøÿÿÿÿ8‘ğğªÀ0HJRINFOZ
+java:S6212‰"/Declare this local variable with "var" instead.(êˆíøÿÿÿÿ8‘ğğªÀ0HşJRINFOZ
+CODE_SMELL
+_
+java:S1612H",Replace this lambda with a method reference.(¡©é½8¹™Œ¿0HóJRMINORZ
+CODE_SMELL
+t	java:S125„"<This block of commented-out lines of code should be removed.(ÇáÔüÿÿÿÿ8¡åÀóÁ0HıJRMAJORZ
+CODE_SMELL
+}
+java:S1301o"KReplace this "switch" statement by "if" statements to increase readability.(¶„æ8®ÿ÷¿0HëJRMINORZ
 CODE_SMELL
 ]
-java:S5411U"*Use the primitive boolean expression here.(‡Ö…²8¹™Œ¿0HŒJRMINORZ
+java:S5411["*Use the primitive boolean expression here.(Œ‰ÓŒ8¹™Œ¿0HòJRMINORZ
 CODE_SMELL
-]
-java:S5411["*Use the primitive boolean expression here.(Œ‰ÓŒ8¹™Œ¿0HJRMINORZ
+U
+java:S1452>"&Remove usage of generic wildcard type.(—­è€HõJRCRITICALZ
+CODE_SMELL
+o	java:S125‹"<This block of commented-out lines of code should be removed.(†¤¼ì8Ÿ¿ïªÀ0HíJRMAJORZ
+CODE_SMELL
+
+java:S4684ˆ"@Replace this persistent entity with a simple POJO or DTO object.(©äÅÿÿÿÿÿ8à›·ûÀ0HìJRCRITICALZVULNERABILITY
+
+java:S1192k"ZDefine a constant instead of duplicating this literal "Error: Role is not found." 3 times.(ÉÿÊ–ùÿÿÿÿHøJRCRITICALZ
+CODE_SMELL
+\
+java:S2140")Use "java.util.Random.nextInt()" instead.(è³Ò¸8Ìı…óÁ0HñJRMINORZ
 CODE_SMELL
 f
-java:S6212b"/Declare this local variable with "var" instead.(…ß‹­øÿÿÿÿ8ĞíŒ¿0H’JRINFOZ
+java:S6212j"/Declare this local variable with "var" instead.(ÇĞù–úÿÿÿÿ8“àú¿0HğJRINFOZ
 CODE_SMELL

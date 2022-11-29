@@ -1,0 +1,26 @@
+
+Š
+java:S2293%"YReplace the type specification in this constructor call with the diamond operator ("<>").(‰›şÿÿÿÿH«LRMINORZ
+CODE_SMELL
+w
+java:S46845"@Replace this persistent entity with a simple POJO or DTO object.(ôÈƒ€ÿÿÿÿÿH¬LRCRITICALZVULNERABILITY
+w
+java:S4684#"@Replace this persistent entity with a simple POJO or DTO object.(û–¹’ûÿÿÿÿH©LRCRITICALZVULNERABILITY
+Œ
+java:S22937"YReplace the type specification in this constructor call with the diamond operator ("<>").(§ˆÂ8ÚŸëÔÅ0HNRMINORZ
+CODE_SMELL
+¤
+java:S1130;"qRemove the declaration of thrown exception 'java.text.ParseException', as it cannot be thrown from method's body.(Üí 8…æ³ÿÅ0HÆSRMINORZ
+CODE_SMELL
+Z
+java:S6212$"/Declare this local variable with "var" instead.(ØñµHªLRINFOZ
+CODE_SMELL
+‘
+java:S2293="YReplace the type specification in this constructor call with the diamond operator ("<>").(—ØÆ½úÿÿÿÿ8Æˆ¦ÚÅ0H‹PRMINORZ
+CODE_SMELL
+a
+java:S62120"/Declare this local variable with "var" instead.(â£íŒ8é é³Å0HÎLRINFOZ
+CODE_SMELL
+f
+java:S62126"/Declare this local variable with "var" instead.(ÓŞñÓüÿÿÿÿ8¢ÄÛ³Å0HÄLRINFOZ
+CODE_SMELL

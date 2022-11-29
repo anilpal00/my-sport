@@ -81,3 +81,9 @@ k
 ;src/main/java/com/mysport/payload/response/JwtResponse.java,d\d\dda560943bab7b9d27feb65d9059c92a14505deb
 ^
 .src/main/resources/application-prod.properties,7\4\743ae0da3644f9e4fd27196da617deafee63f397
+j
+:src/main/java/com/mysport/configuration/SweggarConfig.java,2\e\2e9906c4e95f44a29f887120b1d933fd42d7fdd2
+j
+:src/main/java/com/mysport/configuration/SwaggerConfig.java,e\1\e14bdc962a9af4b216d194969da7bf04eef06587
+^
+.src/main/resources/application-test.properties,9\b\9b5dcd63a166d577175f4c8533e747203fb1936e

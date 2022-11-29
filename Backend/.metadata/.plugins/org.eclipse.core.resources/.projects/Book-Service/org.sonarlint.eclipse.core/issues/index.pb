@@ -49,3 +49,7 @@ l
 <src/test/java/com/digitalbooks/services/BookServiceTest.java,e\9\e9d52f9585da2f1ae6f4ca6bc0b1a38b54affc46
 s
 Csrc/test/java/com/digitalbooks/services/UserDetailsServiceTest.java,2\0\20896fbbb774886d5854995405325eae9995f165
+v
+Fsrc/main/java/com/digitalbooks/repository/UserPurchasedRepository.java,5\3\53a7a4e156fb4d046d06ef668b8b9c3b90b4018c
+a
+1src/main/java/com/digitalbooks/entities/Book.java,a\a\aafc4fd81a3dc858ae283fd06b819101b259bebb

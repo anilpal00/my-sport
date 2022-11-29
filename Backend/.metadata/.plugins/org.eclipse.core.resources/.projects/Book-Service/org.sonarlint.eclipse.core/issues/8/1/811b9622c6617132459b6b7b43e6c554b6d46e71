@@ -1,9 +1,9 @@
 
 w
-java:S4684"@Replace this persistent entity with a simple POJO or DTO object.(ÃõÔøøÿÿÿÿHÆ>RCRITICALZVULNERABILITY
+java:S4684"@Replace this persistent entity with a simple POJO or DTO object.(ÃõÔøøÿÿÿÿHÆLRCRITICALZVULNERABILITY
 _
-java:S6212"/Declare this local variable with "var" instead.(ª¦ØÜüÿÿÿÿHÇ>RINFOZ
+java:S6212"/Declare this local variable with "var" instead.(ª¦ØÜüÿÿÿÿHÇLRINFOZ
 CODE_SMELL
 _
-java:S6212)"/Declare this local variable with "var" instead.(“‚Ë¥ýÿÿÿÿHÈ>RINFOZ
+java:S6212)"/Declare this local variable with "var" instead.(“‚Ë¥ýÿÿÿÿHÈLRINFOZ
 CODE_SMELL

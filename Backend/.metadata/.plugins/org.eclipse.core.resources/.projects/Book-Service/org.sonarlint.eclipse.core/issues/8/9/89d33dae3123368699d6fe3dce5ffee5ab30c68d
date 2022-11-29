@@ -1,37 +1,37 @@
 
-ˆ
-java:S1488L"\Immediately return this expression instead of assigning it to the temporary variable "book".(ñÃ¬ôHé>RMINORZ
-CODE_SMELL
-•
-java:S1488F"iImmediately return this expression instead of assigning it to the temporary variable "purchasedItemsave".(¶€²ƒHë>RMINORZ
-CODE_SMELL
-
-java:S14886"]Immediately return this expression instead of assigning it to the temporary variable "books".(Êò¯¢ıÿÿÿÿHê>RMINORZ
-CODE_SMELL
 Œ
-java:S14880"`Immediately return this expression instead of assigning it to the temporary variable "bookSave".(¦§È˜Hæ>RMINORZ
+java:S14880"`Immediately return this expression instead of assigning it to the temporary variable "bookSave".(¦§È˜HŞLRMINORZ
 CODE_SMELL
 Z
-java:S6212C"/Declare this local variable with "var" instead.(Ëç¹ÄHà>RINFOZ
+java:S6212F"/Declare this local variable with "var" instead.(¶€²ƒHÕLRINFOZ
+CODE_SMELL
+	java:S117B"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©­ü›şÿÿÿÿHÙLRMINORZ
+CODE_SMELL
+Z
+java:S62120"/Declare this local variable with "var" instead.(¦§È˜HÓLRINFOZ
+CODE_SMELL
+Z
+java:S6212."/Declare this local variable with "var" instead.(¹åŸìHÒLRINFOZ
 CODE_SMELL
 a
-java:S3655<"7Call "Optional#isPresent()" before accessing the value.(À÷­ÇşÿÿÿÿHá>RMAJORZBUG
-Z
-java:S62120"/Declare this local variable with "var" instead.(¦§È˜Hß>RINFOZ
+java:S3655<"7Call "Optional#isPresent()" before accessing the value.(À÷­ÇşÿÿÿÿHİLRMAJORZBUG
+•
+java:S1488F"iImmediately return this expression instead of assigning it to the temporary variable "purchasedItemsave".(¶€²ƒHÖLRMINORZ
 CODE_SMELL
-	java:S117B"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©­ü›şÿÿÿÿHâ>RMINORZ
-CODE_SMELL
-_
-java:S6212<"/Declare this local variable with "var" instead.(À÷­ÇşÿÿÿÿHè>RINFOZ
+ˆ
+java:S1488L"\Immediately return this expression instead of assigning it to the temporary variable "book".(ñÃ¬ôHÔLRMINORZ
 CODE_SMELL
 _
-java:S6212&"/Declare this local variable with "var" instead.(©Ïä¥ıÿÿÿÿHä>RINFOZ
+java:S6212&"/Declare this local variable with "var" instead.(©Ïä¥ıÿÿÿÿHØLRINFOZ
+CODE_SMELL
+
+java:S14886"]Immediately return this expression instead of assigning it to the temporary variable "books".(Êò¯¢ıÿÿÿÿH×LRMINORZ
+CODE_SMELL
+	java:S117B"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©­ü›şÿÿÿÿHÛLRMINORZ
+CODE_SMELL
+_
+java:S6212<"/Declare this local variable with "var" instead.(À÷­ÇşÿÿÿÿHÚLRINFOZ
 CODE_SMELL
 Z
-java:S6212F"/Declare this local variable with "var" instead.(¶€²ƒHã>RINFOZ
-CODE_SMELL
-	java:S117B"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©­ü›şÿÿÿÿHå>RMINORZ
-CODE_SMELL
-Z
-java:S6212."/Declare this local variable with "var" instead.(¹åŸìHç>RINFOZ
+java:S6212C"/Declare this local variable with "var" instead.(Ëç¹ÄHÜLRINFOZ
 CODE_SMELL

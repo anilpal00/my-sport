@@ -1,0 +1,86 @@
+
+
+java:S1488F"^Immediately return this expression instead of assigning it to the temporary variable "policy".(‘…ðäüÿÿÿÿHµLRMINORZ
+CODE_SMELL
+f
+java:S6212W"/Declare this local variable with "var" instead.(åéœúÿÿÿÿ8‡Â€´Å0H†MRINFOZ
+CODE_SMELL
+g
+java:S6212›"/Declare this local variable with "var" instead.(­£œ’úÿÿÿÿ8Öåç„Æ0HÕURINFOZ
+CODE_SMELL
+ˆ	java:S117~"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«îš®ÿÿÿÿÿ8ï±ÞÝÅ0H¯PRMINORZ
+CODE_SMELL
+_
+java:S6212^"/Declare this local variable with "var" instead.(ÉÀÿÒýÿÿÿÿH‡MRINFOZ
+CODE_SMELL
+g
+java:S6212Ž"/Declare this local variable with "var" instead.(Ä©Ü‘ÿÿÿÿÿ8³î«ƒÆ0HÑTRINFOZ
+CODE_SMELL
+[
+java:S2200u"/Only the sign of the result should be examined.(œê©”8¯°›…Æ0HåURMINORZBUG
+–
+java:S1488Q"kImmediately return this expression instead of assigning it to the temporary variable "userPolicyClaimSave".(ªÉÈ+H¶LRMINORZ
+CODE_SMELL
+g
+java:S6212†"/Declare this local variable with "var" instead.(ÊÒ´Êüÿÿÿÿ8³î«ƒÆ0H¹TRINFOZ
+CODE_SMELL
+h
+java:S3655W"7Call "Optional#isPresent()" before accessing the value.(åéœúÿÿÿÿ8‡Â€´Å0HùLRMAJORZBUG
+a
+java:S62126"/Declare this local variable with "var" instead.(Ö³î“8¦ºš»Æ0HÝXRINFOZ
+CODE_SMELL
+f
+java:S6212e"/Declare this local variable with "var" instead.(€´¶¿úÿÿÿÿ8Í…ùáÅ0H¾RRINFOZ
+CODE_SMELL
+o
+java:S1481r"7Remove this unused "userPolicyClaimDto" local variable.(Û«‰“üÿÿÿÿ8¯°›…Æ0HèURMINORZ
+CODE_SMELL
+ 
+java:S1488"hImmediately return this expression instead of assigning it to the temporary variable "claimRequestdata".(ýýö›ûÿÿÿÿ8¼Ïö„Æ0HÏURMINORZ
+CODE_SMELL
+‰	java:S117…"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•÷³±ýÿÿÿÿ8„ïÞÅ0HÔQRMINORZ
+CODE_SMELL
+›
+java:S1488†"bImmediately return this expression instead of assigning it to the temporary variable "walletdata".(ÊÒ´Êüÿÿÿÿ8¼Ïö„Æ0HÐURMINORZ
+CODE_SMELL
+f
+java:S6212L"/Declare this local variable with "var" instead.(Û¾¡¯ÿÿÿÿÿ8äñßÞÅ0HÎQRINFOZ
+CODE_SMELL
+¢
+java:S1488Ž"iImmediately return this expression instead of assigning it to the temporary variable "amountaddInWallet".(Ä©Ü‘ÿÿÿÿÿ8¼Ïö„Æ0HÑURMINORZ
+CODE_SMELL
+~
+java:S1117r"FRename "userPolicyClaimDto" which hides the field declared at line 40.(Û«‰“üÿÿÿÿ8Ûè……Æ0HÞURMAJORZ
+CODE_SMELL
+ˆ	java:S117`"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»††áøÿÿÿÿ8„ïÞÅ0HÖQRMINORZ
+CODE_SMELL
+Y
+java:S6212Q"/Declare this local variable with "var" instead.(ªÉÈ+H¼LRINFOZ
+CODE_SMELL
+g
+java:S6212“"/Declare this local variable with "var" instead.(âø×àýÿÿÿÿ8€êÚÞÅ0HÈQRINFOZ
+CODE_SMELL
+–
+java:S1488W"^Immediately return this expression instead of assigning it to the temporary variable "policy".(åéœúÿÿÿÿ8‡Â€´Å0HúLRMINORZ
+CODE_SMELL
+f
+java:S6212f"/Declare this local variable with "var" instead.(ŸÉ¼ýÿÿÿÿ8Í…ùáÅ0H¿RRINFOZ
+CODE_SMELL
+ˆ	java:S117~"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«îš®ÿÿÿÿÿ8³î«ƒÆ0HµTRMINORZ
+CODE_SMELL
+f
+java:S6212r"/Declare this local variable with "var" instead.(Û«‰“üÿÿÿÿ8¯°›…Æ0HæURINFOZ
+CODE_SMELL
+k	java:S106v"9Replace this use of System.out or System.err by a logger.(×èµ§8·Ó »Æ0HÍXRMAJORZ
+CODE_SMELL
+`
+java:S6212d"/Declare this local variable with "var" instead.(¦¯•>8Í…ùáÅ0H½RRINFOZ
+CODE_SMELL
+
+java:S1117›"FRename "userPolicyClaimDto" which hides the field declared at line 40.(­£œ’úÿÿÿÿ8¯°›…Æ0HçURMAJORZ
+CODE_SMELL
+a
+java:S6212j"/Declare this local variable with "var" instead.(ÁÒˆ„8³î«ƒÆ0H³URINFOZ
+CODE_SMELL
+n	java:S125M"<This block of commented-out lines of code should be removed.(ÍÛŸ¿8§§é»Æ0H„YRMAJORZ
+CODE_SMELL
